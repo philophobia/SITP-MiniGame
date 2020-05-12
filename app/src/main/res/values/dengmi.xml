@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="r0"><item>秋后异乡闻钟声 （打一字）</item><item>终</item><item>“秋后”义取“冬”；“异乡”变化为“纟”；组成谜底“终”。“终”与“钟”同音，双扣谜底。</item></string-array>
+    <string-array name="r1"><item>遥看宛如一剪梅 （打一字）</item><item>悔</item><item>“悔”字远看好像是“梅”字去掉了“一”横。</item></string-array>
+    <string-array name="r2"><item>闲来画幅青山卖 （打一成语）</item><item>唯利是图</item><item>谜底中的“图”别解为“青山图”。</item></string-array>
+    <string-array name="r3"><item>东坡居士醒来了 （打一省份简称）</item><item>苏</item><item>东坡居士，即苏轼，以“苏”代指。“醒来了”意扣“苏”。谜面两次扣合谜底。</item></string-array>
+    <string-array name="r4"><item>宝玉爱黛玉，也爱宝钗 （打一物）</item><item>钟表</item><item>谜底别解为“钟情于表亲”。</item></string-array>
+    <string-array name="r5"><item>袭人喜欢白玉盘 （打一成语）</item><item>花好月圆</item><item>袭人姓“花”；“月”又呼作“白玉盘”。</item></string-array>
+    <string-array name="r6"><item>岁末不见主人归 （打二字地名）</item><item>山东</item><item>“岁”字的末端不见了，余下“山”；古时，主位在东，故以“主人”做“东”。</item></string-array>
+    <string-array name="r7"><item>曹雪芹洒泪写红楼 （打一成语）</item><item>水落石出</item><item>“泪”扣“水”；“石”代指“石头记”，《红楼梦》又名《石头记》。</item></string-array>
+    <string-array name="r8"><item>设酒杀鸡迎客至 （打一字）</item><item>滨</item><item>生肖“鸡”与地支“酉”相扣，“酒”杀了“鸡”后，余“氵”；“客”与“宾”同义相扣；合成“滨”字。</item></string-array>
+    <string-array name="r9"><item>冰雪半融 （打一节气）</item><item>雨水</item><item>“冰雪”二字各融掉一半，剩下即“雨水”。</item></string-array>
+    <string-array name="r10"><item>闻声知是叶又落 （打一字）</item><item>吱</item><item>“闻声知”提示谜底的读音与“知”相同，“叶又”二字落在一处，可成“吱”字。</item></string-array>
+    <string-array name="r11"><item>花前心无忘，衷心寻暗香 （打一节气）</item><item>芒种</item><item>“花”前为“艹”，“忘”无“心”即“亡”，合成“芒”字；“衷”心为“中”，“暗香”别解为“香”字没了“日”，剩下“禾”，与“中”组合成“种”。</item></string-array>
+    <string-array name="r12"><item>日日思君不见君 （打一字）</item><item>心</item><item>“心”与“日日”组合，成“思”。“不见君”抵消谜面中的第一个“君”字。</item></string-array>
+    <string-array name="r13"><item>携壶寻访杏花村 （打二字《红楼梦》人名）</item><item>探春</item><item>“借问酒家何处有？牧童遥指杏花村。”故以“杏花村”借指酒家。“春”，酒的美称。买春，原意为买酒。</item></string-array>
+    <string-array name="r14"><item>严于自省 （打三字节日）</item><item>父亲节</item><item>“严”，对父亲的尊称，别解为“父亲”。</item></string-array>
+    <string-array name="r15"><item>踏上归途天已暗 （打一成语）</item><item>来路不明</item><item>谜底别解为“来时的路已经看不清”。</item></string-array>
+    <string-array name="r16"><item>罗襟滴泪无数 （打一成语）</item><item>一衣带水</item><item>“水”，别解为“泪水”。“一衣带水”形容一条衣带那样狭窄的水</item></string-array>
+    <string-array name="r17"><item>丹唇未启笑先闻 （打一字）</item><item>哈</item><item>“哈”字可拆分成“合口”，与“丹唇未启”之意相呼应。“笑先闻”，提示“哈”之意。</item></string-array>
+    <string-array name="r18"><item>运筹帷幄之中，决胜千里之外，吾不如子房 （打一修辞手法）</item><item>夸张</item><item>谜面出自《史记·高祖本纪》，是刘邦对张良的评价。谜底别解为“夸奖张良”。</item></string-array>
+    <string-array name="r19"><item>和氏璧 （打二字《红楼梦》人名）</item><item>宝玉</item><item>“和氏璧”，中国历史上著名的美玉、宝玉。</item></string-array>
+    <string-array name="r20"><item>滴酒不漏 （打二字《红楼梦》人名）</item><item>惜春</item><item>“春”，酒的别称。</item></string-array>
+    <string-array name="r21"><item>失业常宅在家 （打五字防疫用语）</item><item>没事少出门</item><item>“没事”别解为“失业”。</item></string-array>
+    <string-array name="r22"><item>两盏明灯照读书 （打四字教育用语）</item><item>重点中学</item><item>“点”，别解为“点灯”。</item></string-array>
+    <string-array name="r23"><item>一见先生，诺诺连声 （打二字称谓）</item><item>帅哥</item><item>“帅”字与“一”组合，成“师”，有“先生”之意；“哥”字可拆解成两个“可”，与“诺”同义相扣。</item></string-array>
+    <string-array name="r24"><item>元旦逢生日 （打一称谓）</item><item>明星</item><item>“元旦”特指“1月1日”，别解为一个“月”、一个“日”，合为“明”；“生”与“日”合为“星”，结合为“明星”。</item></string-array>
+    <string-array name="r25"><item>招贤纳士平原君 （打一成语）</item><item>引人入胜</item><item>平原君，即赵胜，战国四公子之一。</item></string-array>
+    <string-array name="r26"><item>夫差受救济 （打三字明代人名）</item><item>吴承恩</item><item>“夫差”，姬姓，吴氏，春秋时期吴国末代国君。谜底以“吴”代指。</item></string-array>
+    <string-array name="r27"><item>小的不一样 （打一动物）</item><item>大象</item><item>“象”同“像”。“大象”别解为“大的像”，反扣谜面。</item></string-array>
+    <string-array name="r28"><item>听其声，出乎意料，观其貌，并非偶然 （打一字）</item><item>奇</item><item>“奇”字，与“其”的发声相同，也有“出乎意料”的意思。观其貌，“奇”与“偶”相反。“然”作语气助词。</item></string-array>
+    <string-array name="r29"><item>只有前言 （打二字年号）</item><item>光绪</item><item>“绪”，字义为“开端”，引申为“前言”之意。</item></string-array>
+</resources>

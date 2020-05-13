@@ -43,7 +43,6 @@ public class DMDetailsActivity extends Activity {
             public void onClick(View v) {
                 startActivity(new Intent(DMDetailsActivity.this, CaiDengMiActivity.class),
                         ActivityOptions.makeSceneTransitionAnimation(DMDetailsActivity.this).toBundle());
-                finish();
             }
         });
         final LinearLayout layout = findViewById(R.id.correctLinear);

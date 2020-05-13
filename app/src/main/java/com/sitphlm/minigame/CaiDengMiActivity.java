@@ -5,6 +5,7 @@ import android.app.ActivityOptions;
 import android.content.Intent;
 import android.os.Bundle;
 import android.transition.Slide;
+import android.util.DisplayMetrics;
 import android.view.Gravity;
 import android.view.View;
 import android.widget.ImageButton;
@@ -35,7 +36,6 @@ public class CaiDengMiActivity extends Activity {
             public void onClick(View v) {
                 startActivity(new Intent(CaiDengMiActivity.this, MainActivity.class),
                         ActivityOptions.makeSceneTransitionAnimation(CaiDengMiActivity.this).toBundle());
-                finish();
             }
         });
 
@@ -46,16 +46,19 @@ public class CaiDengMiActivity extends Activity {
         ImageButton btn4 = findViewById(R.id.lButton4);
         ImageButton btn5 = findViewById(R.id.lButton5);
 
+        DisplayMetrics dm = new DisplayMetrics();
+        getWindowManager().getDefaultDisplay().getMetrics(dm);
+        float dpi = dm.density;
         RelativeLayout.LayoutParams lp1 = (RelativeLayout.LayoutParams) btn1.getLayoutParams();
-        lp1.setMargins(generateRandomX(), generateRandomY(), 0, 0);
+        lp1.setMargins((int) (generateRandomX() * dpi), (int) (generateRandomY() * dpi), 0, 0);
         RelativeLayout.LayoutParams lp2 = (RelativeLayout.LayoutParams) btn2.getLayoutParams();
-        lp2.setMargins(generateRandomX(), generateRandomY(), 0, 0);
+        lp2.setMargins((int) (generateRandomX() * dpi), (int) (generateRandomY() * dpi), 0, 0);
         RelativeLayout.LayoutParams lp3 = (RelativeLayout.LayoutParams) btn3.getLayoutParams();
-        lp3.setMargins(generateRandomX(), generateRandomY(), 0, 0);
+        lp3.setMargins((int) (generateRandomX() * dpi), (int) (generateRandomY() * dpi), 0, 0);
         RelativeLayout.LayoutParams lp4 = (RelativeLayout.LayoutParams) btn4.getLayoutParams();
-        lp4.setMargins(generateRandomX(), generateRandomY(), 0, 0);
+        lp4.setMargins((int) (generateRandomX() * dpi), (int) (generateRandomY() * dpi), 0, 0);
         RelativeLayout.LayoutParams lp5 = (RelativeLayout.LayoutParams) btn5.getLayoutParams();
-        lp5.setMargins(generateRandomX(), generateRandomY(), 0, 0);
+        lp5.setMargins((int) (generateRandomX() * dpi), (int) (generateRandomY() * dpi), 0, 0);
     }
 
     private int generateRandomX(){

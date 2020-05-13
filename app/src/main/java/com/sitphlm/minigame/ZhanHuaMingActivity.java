@@ -28,7 +28,6 @@ public class ZhanHuaMingActivity extends Activity {
             public void onClick(View v) {
                 startActivity(new Intent(ZhanHuaMingActivity.this, MainActivity.class),
                         ActivityOptions.makeSceneTransitionAnimation(ZhanHuaMingActivity.this).toBundle());
-                finish();
             }
         });
 
